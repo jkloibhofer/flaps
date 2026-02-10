@@ -18,7 +18,7 @@ The schedule will be updated in due time.
 The workshop will take place in L1.12 at Lab42 in Science Park Amsterdam. Click [here](https://maps.app.goo.gl/dTCfPSEvh9Gy4TGQA) for the address.
 
 ## Workshop dinner
-There will be a workshop dinner. Note the dinner is only covered for the speakers, others need to pay the dinner themselves. If you want to join the dinner, please fill in the form here (TODO) so that we can make a reservation.
+There will be a workshop dinner. Note that the dinner is only covered for the speakers, others need to pay themselves. If you want to join the dinner, please fill in the form here (TODO) so that we can make a reservation.
 
 ## Questions
 For any questions please contact Daniël Otten at [daniel@otten.co](mailto: daniel@otten.co) or Johannes Kloibhofer at [j.kloibhofer@uva.nl](mailto: j.kloibhofer@uva.nl).
