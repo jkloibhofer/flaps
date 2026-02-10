@@ -17,7 +17,7 @@ The schedule will be updated in due time.
 The workshop will take place in L1.12 at the Lab42 in Science Park Amsterdam. Click [here](https://maps.app.goo.gl/dTCfPSEvh9Gy4TGQA) for the address.
 
 ## Workshop dinner
-There will be a workshop dinner. I you want to join please fill in the form here (TODO). Note that you need to pay for your dinner yourself.
+There will be a workshop dinner at . I you want to join please fill in the form here (TODO). Note that you need to pay for your dinner yourself.
 
 ## Questions
 For any questions please contact Johannes Kloibhofer at [j.kloibhofer@uva.nl](mailto: j.kloibhofer@uva.nl).
