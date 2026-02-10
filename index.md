@@ -1,10 +1,8 @@
-
 # Workshop on Fixpoint Logics And Proof Systems
 
 The FLAPS workshop will take place on the 12th of February in Amsterdam. It is colocated with the PhD defense of Johannes Kloibhofer.
 
-## Speakers
-Invited Speakers are 
+## Invited speakers
 - Balder ten Cate
 - Sebastian Enqvist
 - Iris van der Giessen
