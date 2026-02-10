@@ -3,7 +3,12 @@
 The FLAPS workshop will take place on the 12nd of February in Amsterdam. It is colocated with the PhD defense of Johannes Kloibhofer.
 
 ## Speakers
-Invited Speakers are Balder ten Cate, Sebastian Enqvist, Iris van der Giessen, Marianna Girlando and Thomas Studer.
+Invited Speakers are 
+- Balder ten Cate
+- Sebastian Enqvist
+- Iris van der Giessen
+- Marianna Girlando
+- Thomas Studer
 
 ## Schedule
 The schedule will be updated in due time.
