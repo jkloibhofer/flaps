@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Workshop on Fixpoint Logics And Proof Systems"
 ---
 
 # Workshop on Fixpoint Logics And Proof Systems
