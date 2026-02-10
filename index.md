@@ -1,6 +1,8 @@
 # Workshop on Fixpoint Logics And Proof Systems
 
-The FLAPS workshop will take place on the 12th of February in Amsterdam. It is colocated with the PhD defense of Johannes Kloibhofer.
+The FLAPS workshop will take place on the 12th of February in Amsterdam. It aims to connect researchers and students interested in fixpoint logics, (cyclic) proof theory and surrounding areas. Participation is free and no registration is required. 
+
+The workshop is colocated with the PhD defense of Johannes Kloibhofer on the 13th of February. 
 
 ## Invited speakers
 - Balder ten Cate
