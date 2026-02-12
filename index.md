@@ -2,7 +2,7 @@
 
 The FLAPS workshop will take place on the 12th of February in Amsterdam. It aims to connect researchers and students interested in fixpoint logics, (cyclic) proof theory and related topics. Participation is free and no registration is required. 
 
-The workshop is colocated with the [PhD defense of Johannes Kloibhofer](https://www.uva.nl/en/content/events/2026/03/cycles-with-annotations-non-wellfounded-proof-theory-of-modal-fixpoint-logics.html?origin=Hrba9dP3TiyS8U8plHPUHQ). The defense is public and will be held on the 13th of February at 11 am at the Aula of the University of Amsterdam (Singel 411, Amsterdam). 
+The workshop is co-located with the [PhD defense of Johannes Kloibhofer](https://www.uva.nl/en/content/events/2026/03/cycles-with-annotations-non-wellfounded-proof-theory-of-modal-fixpoint-logics.html?origin=Hrba9dP3TiyS8U8plHPUHQ). The defense is public and will be held on the 13th of February at 11 am at the Aula of the University of Amsterdam (Singel 411, Amsterdam). 
 
 ## Invited speakers
 - Balder ten Cate
