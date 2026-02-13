@@ -16,21 +16,21 @@ Here is a preliminary schedule. Note that this still might change.
 
 
 <table>
-  <tr>
+  <tr style="background-color: white;">
     <th>Time</th>
     <th>Speaker</th>
   </tr>
-  <tr>
+  <tr style="background-color: white;">
     <td>9:30</td>
     <td>Thomas Studer</td>
   </tr>
-  <tr style="background-color: grey;">
-    <td>Bob</td>
-    <td>85</td>
-  </tr>
-  <tr style="background-color: white;">
+  <tr style="background-color: #f2f2f2;">
     <td>10:20</td>
     <td>Coffee</td>
+  </tr>
+  <tr style="background-color: white;">
+    <td>10:50</td>
+    <td>Iris van der Giessen</td>
   </tr>
 </table>
 
