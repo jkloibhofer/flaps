@@ -33,7 +33,7 @@ Here is a preliminary schedule. Note that this still might change.
     <td>Bob</td>
     <td>85</td>
   </tr>
-  <tr class="grey">
+  <tr style="background-color: white;">
     <td>Charlie</td>
     <td>88</td>
   </tr>
