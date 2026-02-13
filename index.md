@@ -14,11 +14,6 @@ The workshop is co-located with the [PhD defense of Johannes Kloibhofer](https:/
 ## Schedule
 Here is a preliminary schedule. Note that this still might change.
 
-<style>
-.grey {
-  background-color: #f2f2f2;
-}
-</style>
 
 <table>
   <tr>
@@ -26,16 +21,16 @@ Here is a preliminary schedule. Note that this still might change.
     <th>Speaker</th>
   </tr>
   <tr>
-    <td>Alice</td>
-    <td>90</td>
+    <td>9:30</td>
+    <td>Thomas Studer</td>
   </tr>
-  <tr style="background-color:#f2f2f2;">
+  <tr style="background-color: grey;">
     <td>Bob</td>
     <td>85</td>
   </tr>
   <tr style="background-color: white;">
-    <td>Charlie</td>
-    <td>88</td>
+    <td>10:20</td>
+    <td>Coffee</td>
   </tr>
 </table>
 
