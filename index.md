@@ -25,11 +25,11 @@ Here is a preliminary schedule. Note that this still might change.
     <th>Time</th>
     <th>Speaker</th>
   </tr>
-  <tr class="grey">
+  <tr>
     <td>Alice</td>
     <td>90</td>
   </tr>
-  <tr>
+  <tr class="grey">
     <td>Bob</td>
     <td>85</td>
   </tr>
