@@ -14,6 +14,31 @@ The workshop is co-located with the [PhD defense of Johannes Kloibhofer](https:/
 ## Schedule
 Here is a preliminary schedule. Note that this still might change.
 
+<style>
+.grey {
+  background-color: #f2f2f2;
+}
+</style>
+
+<table>
+  <tr>
+    <th>Time</th>
+    <th>Speaker</th>
+  </tr>
+  <tr class="grey">
+    <td>Alice</td>
+    <td>90</td>
+  </tr>
+  <tr>
+    <td>Bob</td>
+    <td>85</td>
+  </tr>
+  <tr class="grey">
+    <td>Charlie</td>
+    <td>88</td>
+  </tr>
+</table>
+
 Time | Speaker
 -|-
 9:30 | Thomas Studer
