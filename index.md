@@ -15,7 +15,7 @@ The workshop is co-located with the [PhD defense of Johannes Kloibhofer](https:/
 Here is a preliminary schedule. Note that it may still change.
 
 <table>
-  <tr style="background-color: white;">
+  <tr style="background-color: #f2f2f2;">
     <th>Time</th>
     <th>Speaker</th>
   </tr>
