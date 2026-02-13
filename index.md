@@ -32,6 +32,31 @@ Here is a preliminary schedule. Note that this still might change.
     <td>10:50</td>
     <td>Iris van der Giessen</td>
   </tr>
+    <tr style="background-color: white;">
+    <td>11:40</td>
+    <td>Marianna Girlando</td>
+  </tr>
+  <tr style="background-color: #f2f2f2;">
+    <td>12:30</td>
+    <td>Lunch</td>
+  </tr>
+  <tr style="background-color: white;">
+    <td>14:00</td>
+    <td>Sebastian Enqvist</td>
+  </tr>
+    <tr style="background-color: #f2f2f2;">
+    <td>14:50</td>
+    <td>Coffee</td>
+  </tr>
+  <tr style="background-color: white;">
+    <td>15:20</td>
+    <td>Balder ten Cate</td>
+  </tr>
+  </tr>
+  <tr style="background-color: white;">
+    <td>16:10</td>
+    <td>tba</td>
+  </tr>
 </table>
 
 Time | Speaker
