@@ -59,11 +59,6 @@ Here is a preliminary schedule. Note that this still might change.
   </tr>
 </table>
 
-Time | Speaker
--|-
-9:30 | Thomas Studer
-10:20 | Coffee
-10:50 | Iris van der Giessen
 
 ## Location 
 The workshop will take place in L1.12 at Lab42 in Science Park Amsterdam. Click [here](https://maps.app.goo.gl/dTCfPSEvh9Gy4TGQA) for the address.
