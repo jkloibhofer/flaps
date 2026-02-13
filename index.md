@@ -29,7 +29,7 @@ Here is a preliminary schedule. Note that this still might change.
     <td>Alice</td>
     <td>90</td>
   </tr>
-  <tr class="grey">
+  <tr style="background-color:#f2f2f2;">
     <td>Bob</td>
     <td>85</td>
   </tr>
