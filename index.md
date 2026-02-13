@@ -12,8 +12,7 @@ The workshop is co-located with the [PhD defense of Johannes Kloibhofer](https:/
 - Thomas Studer
 
 ## Schedule
-Here is a preliminary schedule. Note that this still might change.
-
+Here is a preliminary schedule. Note that it may still change.
 
 <table>
   <tr style="background-color: white;">
@@ -51,7 +50,6 @@ Here is a preliminary schedule. Note that this still might change.
   <tr style="background-color: white;">
     <td>15:20</td>
     <td>Balder ten Cate</td>
-  </tr>
   </tr>
   <tr style="background-color: white;">
     <td>16:10</td>
