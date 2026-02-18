@@ -10,6 +10,7 @@ The workshop is co-located with the [PhD defense of Johannes Kloibhofer](https:/
 - Iris van der Giessen
 - Marianna Girlando
 - Thomas Studer
+- Dominik Wehr
 
 ## Schedule
 Here is a preliminary schedule. Note that it may still change.
@@ -20,40 +21,40 @@ Here is a preliminary schedule. Note that it may still change.
     <th>Speaker</th>
   </tr>
   <tr style="background-color: white;">
-    <td>9:30</td>
+    <td>09:30–10:20</td>
     <td>Thomas Studer</td>
   </tr>
   <tr style="background-color: #f2f2f2;">
-    <td>10:20</td>
+    <td>10:20–10:50</td>
     <td>Coffee</td>
   </tr>
   <tr style="background-color: white;">
-    <td>10:50</td>
+    <td>10:50–11:40</td>
     <td>Iris van der Giessen</td>
   </tr>
     <tr style="background-color: white;">
-    <td>11:40</td>
+    <td>11:40–12:30</td>
     <td>Marianna Girlando</td>
   </tr>
   <tr style="background-color: #f2f2f2;">
-    <td>12:30</td>
+    <td>12:30–14:00</td>
     <td>Lunch</td>
   </tr>
   <tr style="background-color: white;">
-    <td>14:00</td>
+    <td>14:00–14:50</td>
     <td>Sebastian Enqvist</td>
   </tr>
     <tr style="background-color: #f2f2f2;">
-    <td>14:50</td>
+    <td>14:50–15:20</td>
     <td>Coffee</td>
   </tr>
   <tr style="background-color: white;">
-    <td>15:20</td>
+    <td>15:20–16:10</td>
     <td>Balder ten Cate</td>
   </tr>
   <tr style="background-color: white;">
-    <td>16:10</td>
-    <td>tba</td>
+    <td>16:10–17:00</td>
+    <td>Dominik Wehr</td>
   </tr>
 </table>
 
