@@ -5,7 +5,6 @@ The FLAPS workshop will take place on the 12th of March 2026 in Amsterdam. It ai
 The workshop is co-located with the [PhD defense of Johannes Kloibhofer](https://www.uva.nl/en/content/events/2026/03/cycles-with-annotations-non-wellfounded-proof-theory-of-modal-fixpoint-logics.html?origin=Hrba9dP3TiyS8U8plHPUHQ). The defense is public and will be held on the 13th of March at 11 am at the Aula of the University of Amsterdam (Singel 411, Amsterdam). 
 
 ## Schedule of the invited speakers
-Here is a preliminary schedule. Note that it may still change.
 
 <table>
   <tr style="background-color: #f2f2f2;">
