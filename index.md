@@ -90,7 +90,7 @@ but constructively better behaved.
 The workshop will take place in L1.12 at Lab42 in Science Park Amsterdam. Click [here](https://maps.app.goo.gl/dTCfPSEvh9Gy4TGQA) for the address.
 
 ## Workshop dinner
-There will be a workshop dinner after the workshop. Note that the dinner is only covered for the speakers, others need to pay themselves. If you want to join the dinner, please fill in the form [here](https://forms.gle/pXW2m4Zhw8EkMqy4A) so that we can make a reservation.
+There will be a workshop dinner after the workshop at [Restaurant Elixer](https://www.restaurantelixer.com/). The restaurant is within walking distance of Science Park. Note that the dinner is only covered for the speakers, others need to pay themselves. If you want to join the dinner, please fill in the form [here](https://forms.gle/pXW2m4Zhw8EkMqy4A) so that we can make a reservation.
 
 ## Questions
 For any questions please contact [Daniël Otten](https://www.otten.co) at [daniel@otten.co](mailto: daniel@otten.co) or [Johannes Kloibhofer](https://jkloibhofer.github.io) at [j.kloibhofer@proton.me](mailto: j.kloibhofer@proton.me).
