@@ -57,7 +57,6 @@ The workshop is co-located with the [PhD defense of Johannes Kloibhofer](https:/
     <td>Dominik Wehr</td>
     <td>How (un-)constructive is cyclic proof theory?</td>
   </tr>
-   </tr>
     <tr style="background-color: #f2f2f2;">
     <td>19:00-</td>
     <td>Dinner</td>
